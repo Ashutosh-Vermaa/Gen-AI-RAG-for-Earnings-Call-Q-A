@@ -1,1 +1,2 @@
-# Gen-AI-RAG-for-Earnings-Call-Q-A
+🔍 LLM-Powered Financial Analyst — A RAG System for Earnings Call Q&A
+This project is an industry-grade Retrieval-Augmented Generation (RAG) pipeline built to intelligently answer user questions from company earnings call transcripts. It handles both document-level and topic-level questions by classifying them using an LLM agent, retrieves relevant chunks using multiple search strategies, and generates accurate, faithful answers.
