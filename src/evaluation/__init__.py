@@ -1,0 +1,1 @@
+from .load_qa_pairs import load_pairs

@@ -1,0 +1,49 @@
+{
+    "Did the company meet, beat, or miss earnings expectations (EPS and revenue)?":
+        "Not enough context. The transcript does not mention analyst expectations or whether earnings and revenue met, beat, or missed them.",
+
+    "What are the key drivers of revenue growth or decline?":
+        "Key drivers included strong growth in the Lead Acid Battery (LAB) business, international expansion, launch of AGM batteries, diversification into lubricants, and high growth in the New Energy segment including EV battery and charger business.",
+
+    "How did margins (gross, operating, net) change compared to previous quarters/years?":
+        "The transcript mentions YoY Profit Before Tax growth of 15.4% and revenue growth of 8.4%, but does not provide specific gross, operating, or net margin comparisons.",
+
+    "How did different business segments or geographies perform?":
+        "LAB business saw strong performance. ARACT grew 115% YoY. International sales grew, especially with orders from two major US retailers. The Amaron brand is a leader in India and several Asian/Middle East countries.",
+
+    "How has cash flow changed (operating, investing, and financing)?":
+        "Not available. The transcript does not mention any cash flow metrics.",
+
+    "What is the company's current debt position and leverage ratios?":
+        "A speaker mentioned the company is 'almost debt-free,' but no specific ratios or figures were provided.",
+
+    "What is the status of capital expenditures and investments?":
+        "Significant CAPEX includes ₹9,500 crore for a Giga Corridor in Telangana. Other investments include a recycling plant in Tamil Nadu, EV chargers, and R&D in advanced battery tech.",
+
+    "What is management's guidance for the next quarter or fiscal year (revenue, EPS, margins)?":
+        "Not provided. No explicit guidance figures were shared.",
+
+    "Is guidance being raised, maintained, or lowered? Why?":
+        "Not addressed in the transcript.",
+
+    "What assumptions underpin the forward guidance (e.g., economic conditions, input costs)?":
+        "Not disclosed. No assumptions behind forward guidance were shared.",
+
+    "Are there any known headwinds or tailwinds impacting future performance?":
+        "Tailwinds include EV adoption, government incentives, and clean energy demand. Headwinds mentioned by shareholders include geopolitical risks, climate impact, and supply chain issues, but not elaborated on by management.",
+
+    "What are the company’s current strategic priorities?":
+        "Strategic focus is on energy transition, investments in EV and lithium-ion tech, global expansion, sustainability, and product innovation.",
+
+    "Are there new product launches, services, or market entries in the pipeline?":
+        "Yes. AGM batteries for hybrid vehicles, EV chargers, lithium-ion cells and packs, and plans to enter 80 countries.",
+
+    "How is the company positioning itself against competitors?":
+        "By leveraging technology tie-ups, strengthening global presence, and leading in industrial and EV battery solutions with a focus on sustainability.",
+
+    "How is customer demand evolving in key markets?":
+        "Rising demand in EVs (2W/3W especially), automotive batteries, telecom/data center storage, and international aftermarket.",
+
+    "What risks (regulatory, supply chain, cybersecurity, etc.) is the company monitoring or managing?":
+        "The company is addressing cybersecurity, battery safety, environmental regulations, and supply chain challenges. Battery waste rules and circular economy efforts are ongoing."
+}
