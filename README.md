@@ -11,15 +11,15 @@ This project is an **industry-grade Retrieval-Augmented Generation (RAG)** pipel
   - Generates answers either by summarizing the full document or retrieving relevant chunks
 
 - 🔍 **Multiple retrieval strategies**
-  - Supports **MMR**, **exact match**, and **hybrid** search
-  - Compatible with **OpenAI**, **BGE**, and other embedding models
+  - Experimented with **MMR**, **Contextual-compression**
+  - Tried open and closed source models like OpenAI, Huggingface (**Phi-4, DeepSeek v3** etc.)
 
 - 🧠 **Modular and extensible RAG pipeline**
   - Built with **LangChain**, supports plug-and-play chains and prompts
   - Clean code structure and logging using Python best practices
 
 - 📈 **Robust evaluation framework**
-  - Uses **RAGAS** to evaluate metrics like **faithfulness**, **context recall**, and **answer relevance**
+  - Uses **RAGAS** to evaluate metrics like **faithfulness**, **context recall**, **context precision**, and **answer relevance**
 
 ---
 
